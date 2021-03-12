@@ -1,0 +1,49 @@
+.root{
+	-fx-background-color: #1d1d35;
+	
+}
+
+.label, .label-brigth, .label-header{
+ -fx-font-family: "Segoe UI Semibold";
+	-fx-text-fill: #fff;
+}
+
+.label, .label-bright{
+
+-fx-font-size: 11pt;
+
+}
+
+.button{
+	-fx-background-color: #ff0000;
+	-fx-background-radius: 0;
+	-fx-pref-width: 1000px;
+	
+}
+
+.label-bright, .label-header{
+	
+	 -fx-opacity: 1;
+	 
+}
+
+.label {
+	 -fx-opacity: 0.6;
+}
+
+.label-brigth{
+	-fx-font-size: 11pt;
+}
+
+.label-header{
+	-fx-font-size: 32pt;
+}
+
+
+.table-view{
+	-fx-base: #1d1d1d;
+	-fx-control-inner-background: #1d1d1d;
+	-fx-table-cell-border-color: transparen;
+	-fx-table-header-border-color: transparent;
+	-fx-padding: 5;	
+}
